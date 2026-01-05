@@ -75,11 +75,21 @@ python run_eval.py --variant B --task summary --runs 10 --seed 100
 ```
 Output will report success rates and average steps over 10 independent runs.
 
+### 3. Automated Pipeline
+Run the entire training and evaluation suite in one command. Results are automatically timestamped and saved to the `exp/` directory.
+```bash
+python run_pipeline.py --epochs 20 --runs 10 --seed 42
+```
+*   `--epochs`: Number of training epochs (default: 20).
+*   `--runs`: Number of evaluation runs per variant/task (default: 10).
+*   `--seed`: Random seed for reproducibility (default: 42).
+
 ## Repository Structure
 *   `Core/`: Environment, Dataset, and Shared Model Definitions.
 *   `Models/`: Planner implementations (VariantA.py, VariantB.py).
 *   `run_train.py`: Main entry point for model training.
 *   `run_eval.py`: Main entry point for statistical evaluation.
+*   `run_pipeline.py`: Automation script for full train-eval cycles.
 
 ---
 

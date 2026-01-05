@@ -1,0 +1,226 @@
+==================================================
+EXPERIMENT PARAMETERS
+Timestamp: 20260105_151935
+Epochs: 1
+Runs: 1
+Seed: 42
+==================================================
+
+--- TRAINING OUTPUT ---
+Initializing World...
+Creature world created (clean slate).
+Generating Dataset (100 trajectories)...
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Creature world created (clean slate).
+Training Models (1 epochs)...
+Training WorldModel (1 epochs)...
+Training PolicyNet...
+Training FileArgNet...
+Training DirArgNet...
+Training ObjectEffectModel...
+All models trained.
+Saving Models and Config...
+Done. Saved to models.pt
+
+------------------------------
+
+--- EVALUATION OUTPUT: Variant A, Task log ---
+Loading Models from models.pt...
+
+Running Task: Generate Log
+Variant: A
+Base Seed: 42 | Runs: 1
+------------------------------
+
+--- Run 1/1 (Seed 42) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 11.298
+Result: SUCCESS in 1 steps
+==============================
+EVALUATION COMPLETE (1 runs)
+Variant: A
+Success Rate: 100.0%
+Avg Steps (Successes): 1.00
+==============================
+
+------------------------------
+
+--- EVALUATION OUTPUT: Variant A, Task summary ---
+Loading Models from models.pt...
+
+Running Task: Write Summary
+Variant: A
+Base Seed: 42 | Runs: 1
+------------------------------
+
+--- Run 1/1 (Seed 42) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/summary_day1.txt', '\nSummary ready.') | OK | score = 31.347
+Result: SUCCESS in 1 steps
+==============================
+EVALUATION COMPLETE (1 runs)
+Variant: A
+Success Rate: 100.0%
+Avg Steps (Successes): 1.00
+==============================
+
+------------------------------
+
+--- EVALUATION OUTPUT: Variant B, Task log ---
+Loading Models from models.pt...
+
+Running Task: Generate Log
+Variant: B
+Base Seed: 42 | Runs: 1
+------------------------------
+
+--- Run 1/1 (Seed 42) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('data/numbers.txt', '\n[LOG ENTRY]\n') | OK | score = 1.347
+[1] ACTION = WRITE  ('data/numbers.txt', '\n[LOG ENTRY]\n') | OK | score = 1.363
+[2] ACTION = WRITE  ('data/numbers.txt', '\n[LOG ENTRY]\n') | OK | score = 1.381
+[3] ACTION = WRITE  ('data/numbers.txt', '\n[LOG ENTRY]\n') | OK | score = 1.396
+[4] ACTION = WRITE  ('data/numbers.txt', '\n[LOG ENTRY]\n') | OK | score = 1.355
+[5] ACTION = WRITE  ('data/numbers.txt', '\n[LOG ENTRY]\n') | OK | score = 1.388
+[6] ACTION = WRITE  ('data/numbers.txt', '\n[LOG ENTRY]\n') | OK | score = 1.371
+[7] ACTION = WRITE  ('data/numbers.txt', '\n[LOG ENTRY]\n') | OK | score = 1.434
+[8] ACTION = WRITE  ('data/numbers.txt', '\n[LOG ENTRY]\n') | OK | score = 1.412
+[9] ACTION = WRITE  ('data/numbers.txt', '\n[LOG ENTRY]\n') | OK | score = 1.404
+Result: FAIL in 10 steps
+==============================
+EVALUATION COMPLETE (1 runs)
+Variant: B
+Success Rate: 0.0%
+Avg Steps (Successes): 0.00
+==============================
+
+------------------------------
+
+--- EVALUATION OUTPUT: Variant B, Task summary ---
+Loading Models from models.pt...
+
+Running Task: Write Summary
+Variant: B
+Base Seed: 42 | Runs: 1
+------------------------------
+
+--- Run 1/1 (Seed 42) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('data/numbers.txt', '\n[LOG ENTRY]\n') | OK | score = 1.347
+[1] ACTION = WRITE  ('data/numbers.txt', '\n[LOG ENTRY]\n') | OK | score = 1.363
+[2] ACTION = WRITE  ('data/numbers.txt', '\n[LOG ENTRY]\n') | OK | score = 1.381
+[3] ACTION = WRITE  ('data/numbers.txt', '\n[LOG ENTRY]\n') | OK | score = 1.396
+[4] ACTION = WRITE  ('data/numbers.txt', '\n[LOG ENTRY]\n') | OK | score = 1.355
+[5] ACTION = WRITE  ('data/numbers.txt', '\n[LOG ENTRY]\n') | OK | score = 1.388
+[6] ACTION = WRITE  ('data/numbers.txt', '\n[LOG ENTRY]\n') | OK | score = 1.371
+[7] ACTION = WRITE  ('data/numbers.txt', '\n[LOG ENTRY]\n') | OK | score = 1.434
+[8] ACTION = WRITE  ('data/numbers.txt', '\n[LOG ENTRY]\n') | OK | score = 1.412
+[9] ACTION = WRITE  ('data/numbers.txt', '\n[LOG ENTRY]\n') | OK | score = 1.404
+Result: FAIL in 10 steps
+==============================
+EVALUATION COMPLETE (1 runs)
+Variant: B
+Success Rate: 0.0%
+Avg Steps (Successes): 0.00
+==============================
+
+------------------------------
+

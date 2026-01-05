@@ -1,0 +1,1530 @@
+==================================================
+EXPERIMENT PARAMETERS
+Timestamp: 20260105_193424
+Epochs: 10000
+Runs: 50
+Seed: 4025
+==================================================
+
+--- TRAINING COMPLETE ---
+
+------------------------------
+
+--- EVALUATION OUTPUT: Variant A, Task log ---
+Loading Models from models.pt...
+
+Running Task: Generate Log
+Variant: A
+Base Seed: 4025 | Runs: 50
+------------------------------
+
+--- Run 1/50 (Seed 4025) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 10.146
+Result: SUCCESS in 1 steps
+
+--- Run 2/50 (Seed 4026) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 10.146
+Result: SUCCESS in 1 steps
+
+--- Run 3/50 (Seed 4027) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 10.146
+Result: SUCCESS in 1 steps
+
+--- Run 4/50 (Seed 4028) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 10.146
+Result: SUCCESS in 1 steps
+
+--- Run 5/50 (Seed 4029) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 10.146
+Result: SUCCESS in 1 steps
+
+--- Run 6/50 (Seed 4030) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 10.146
+Result: SUCCESS in 1 steps
+
+--- Run 7/50 (Seed 4031) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 10.146
+Result: SUCCESS in 1 steps
+
+--- Run 8/50 (Seed 4032) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 10.146
+Result: SUCCESS in 1 steps
+
+--- Run 9/50 (Seed 4033) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 10.146
+Result: SUCCESS in 1 steps
+
+--- Run 10/50 (Seed 4034) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 10.146
+Result: SUCCESS in 1 steps
+
+--- Run 11/50 (Seed 4035) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 10.146
+Result: SUCCESS in 1 steps
+
+--- Run 12/50 (Seed 4036) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 10.146
+Result: SUCCESS in 1 steps
+
+--- Run 13/50 (Seed 4037) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 10.146
+Result: SUCCESS in 1 steps
+
+--- Run 14/50 (Seed 4038) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 10.146
+Result: SUCCESS in 1 steps
+
+--- Run 15/50 (Seed 4039) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 10.146
+Result: SUCCESS in 1 steps
+
+--- Run 16/50 (Seed 4040) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 10.146
+Result: SUCCESS in 1 steps
+
+--- Run 17/50 (Seed 4041) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 10.146
+Result: SUCCESS in 1 steps
+
+--- Run 18/50 (Seed 4042) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 10.146
+Result: SUCCESS in 1 steps
+
+--- Run 19/50 (Seed 4043) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 10.146
+Result: SUCCESS in 1 steps
+
+--- Run 20/50 (Seed 4044) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 10.146
+Result: SUCCESS in 1 steps
+
+--- Run 21/50 (Seed 4045) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 10.146
+Result: SUCCESS in 1 steps
+
+--- Run 22/50 (Seed 4046) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 10.146
+Result: SUCCESS in 1 steps
+
+--- Run 23/50 (Seed 4047) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 10.146
+Result: SUCCESS in 1 steps
+
+--- Run 24/50 (Seed 4048) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 10.146
+Result: SUCCESS in 1 steps
+
+--- Run 25/50 (Seed 4049) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 10.146
+Result: SUCCESS in 1 steps
+
+--- Run 26/50 (Seed 4050) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 10.146
+Result: SUCCESS in 1 steps
+
+--- Run 27/50 (Seed 4051) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 10.146
+Result: SUCCESS in 1 steps
+
+--- Run 28/50 (Seed 4052) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 10.146
+Result: SUCCESS in 1 steps
+
+--- Run 29/50 (Seed 4053) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 10.146
+Result: SUCCESS in 1 steps
+
+--- Run 30/50 (Seed 4054) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 10.146
+Result: SUCCESS in 1 steps
+
+--- Run 31/50 (Seed 4055) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 10.146
+Result: SUCCESS in 1 steps
+
+--- Run 32/50 (Seed 4056) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 10.146
+Result: SUCCESS in 1 steps
+
+--- Run 33/50 (Seed 4057) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 10.146
+Result: SUCCESS in 1 steps
+
+--- Run 34/50 (Seed 4058) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 10.146
+Result: SUCCESS in 1 steps
+
+--- Run 35/50 (Seed 4059) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 10.146
+Result: SUCCESS in 1 steps
+
+--- Run 36/50 (Seed 4060) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 10.146
+Result: SUCCESS in 1 steps
+
+--- Run 37/50 (Seed 4061) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 10.146
+Result: SUCCESS in 1 steps
+
+--- Run 38/50 (Seed 4062) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 10.146
+Result: SUCCESS in 1 steps
+
+--- Run 39/50 (Seed 4063) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 10.146
+Result: SUCCESS in 1 steps
+
+--- Run 40/50 (Seed 4064) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 10.146
+Result: SUCCESS in 1 steps
+
+--- Run 41/50 (Seed 4065) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 10.146
+Result: SUCCESS in 1 steps
+
+--- Run 42/50 (Seed 4066) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 10.146
+Result: SUCCESS in 1 steps
+
+--- Run 43/50 (Seed 4067) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 10.146
+Result: SUCCESS in 1 steps
+
+--- Run 44/50 (Seed 4068) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 10.146
+Result: SUCCESS in 1 steps
+
+--- Run 45/50 (Seed 4069) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 10.146
+Result: SUCCESS in 1 steps
+
+--- Run 46/50 (Seed 4070) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 10.146
+Result: SUCCESS in 1 steps
+
+--- Run 47/50 (Seed 4071) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 10.146
+Result: SUCCESS in 1 steps
+
+--- Run 48/50 (Seed 4072) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 10.146
+Result: SUCCESS in 1 steps
+
+--- Run 49/50 (Seed 4073) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 10.146
+Result: SUCCESS in 1 steps
+
+--- Run 50/50 (Seed 4074) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 10.146
+Result: SUCCESS in 1 steps
+==============================
+EVALUATION COMPLETE (50 runs)
+Variant: A
+Success Rate: 100.0%
+Avg Steps (Successes): 1.00
+Std Dev: +/- 0.0%
+==============================
+
+------------------------------
+
+--- EVALUATION OUTPUT: Variant A, Task summary ---
+Loading Models from models.pt...
+
+Running Task: Write Summary
+Variant: A
+Base Seed: 4025 | Runs: 50
+------------------------------
+
+--- Run 1/50 (Seed 4025) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/summary_day1.txt', '\nSummary ready.') | OK | score = 15.136
+Result: SUCCESS in 1 steps
+
+--- Run 2/50 (Seed 4026) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/summary_day1.txt', '\nSummary ready.') | OK | score = 15.136
+Result: SUCCESS in 1 steps
+
+--- Run 3/50 (Seed 4027) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/summary_day1.txt', '\nSummary ready.') | OK | score = 15.136
+Result: SUCCESS in 1 steps
+
+--- Run 4/50 (Seed 4028) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/summary_day1.txt', '\nSummary ready.') | OK | score = 15.136
+Result: SUCCESS in 1 steps
+
+--- Run 5/50 (Seed 4029) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/summary_day1.txt', '\nSummary ready.') | OK | score = 15.136
+Result: SUCCESS in 1 steps
+
+--- Run 6/50 (Seed 4030) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/summary_day1.txt', '\nSummary ready.') | OK | score = 15.136
+Result: SUCCESS in 1 steps
+
+--- Run 7/50 (Seed 4031) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/summary_day1.txt', '\nSummary ready.') | OK | score = 15.136
+Result: SUCCESS in 1 steps
+
+--- Run 8/50 (Seed 4032) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/summary_day1.txt', '\nSummary ready.') | OK | score = 15.136
+Result: SUCCESS in 1 steps
+
+--- Run 9/50 (Seed 4033) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/summary_day1.txt', '\nSummary ready.') | OK | score = 15.136
+Result: SUCCESS in 1 steps
+
+--- Run 10/50 (Seed 4034) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/summary_day1.txt', '\nSummary ready.') | OK | score = 15.136
+Result: SUCCESS in 1 steps
+
+--- Run 11/50 (Seed 4035) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/summary_day1.txt', '\nSummary ready.') | OK | score = 15.136
+Result: SUCCESS in 1 steps
+
+--- Run 12/50 (Seed 4036) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/summary_day1.txt', '\nSummary ready.') | OK | score = 15.136
+Result: SUCCESS in 1 steps
+
+--- Run 13/50 (Seed 4037) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/summary_day1.txt', '\nSummary ready.') | OK | score = 15.136
+Result: SUCCESS in 1 steps
+
+--- Run 14/50 (Seed 4038) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/summary_day1.txt', '\nSummary ready.') | OK | score = 15.136
+Result: SUCCESS in 1 steps
+
+--- Run 15/50 (Seed 4039) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/summary_day1.txt', '\nSummary ready.') | OK | score = 15.136
+Result: SUCCESS in 1 steps
+
+--- Run 16/50 (Seed 4040) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/summary_day1.txt', '\nSummary ready.') | OK | score = 15.136
+Result: SUCCESS in 1 steps
+
+--- Run 17/50 (Seed 4041) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/summary_day1.txt', '\nSummary ready.') | OK | score = 15.136
+Result: SUCCESS in 1 steps
+
+--- Run 18/50 (Seed 4042) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/summary_day1.txt', '\nSummary ready.') | OK | score = 15.136
+Result: SUCCESS in 1 steps
+
+--- Run 19/50 (Seed 4043) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/summary_day1.txt', '\nSummary ready.') | OK | score = 15.136
+Result: SUCCESS in 1 steps
+
+--- Run 20/50 (Seed 4044) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/summary_day1.txt', '\nSummary ready.') | OK | score = 15.136
+Result: SUCCESS in 1 steps
+
+--- Run 21/50 (Seed 4045) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/summary_day1.txt', '\nSummary ready.') | OK | score = 15.136
+Result: SUCCESS in 1 steps
+
+--- Run 22/50 (Seed 4046) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/summary_day1.txt', '\nSummary ready.') | OK | score = 15.136
+Result: SUCCESS in 1 steps
+
+--- Run 23/50 (Seed 4047) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/summary_day1.txt', '\nSummary ready.') | OK | score = 15.136
+Result: SUCCESS in 1 steps
+
+--- Run 24/50 (Seed 4048) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/summary_day1.txt', '\nSummary ready.') | OK | score = 15.136
+Result: SUCCESS in 1 steps
+
+--- Run 25/50 (Seed 4049) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/summary_day1.txt', '\nSummary ready.') | OK | score = 15.136
+Result: SUCCESS in 1 steps
+
+--- Run 26/50 (Seed 4050) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/summary_day1.txt', '\nSummary ready.') | OK | score = 15.136
+Result: SUCCESS in 1 steps
+
+--- Run 27/50 (Seed 4051) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/summary_day1.txt', '\nSummary ready.') | OK | score = 15.136
+Result: SUCCESS in 1 steps
+
+--- Run 28/50 (Seed 4052) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/summary_day1.txt', '\nSummary ready.') | OK | score = 15.136
+Result: SUCCESS in 1 steps
+
+--- Run 29/50 (Seed 4053) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/summary_day1.txt', '\nSummary ready.') | OK | score = 15.136
+Result: SUCCESS in 1 steps
+
+--- Run 30/50 (Seed 4054) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/summary_day1.txt', '\nSummary ready.') | OK | score = 15.136
+Result: SUCCESS in 1 steps
+
+--- Run 31/50 (Seed 4055) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/summary_day1.txt', '\nSummary ready.') | OK | score = 15.136
+Result: SUCCESS in 1 steps
+
+--- Run 32/50 (Seed 4056) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/summary_day1.txt', '\nSummary ready.') | OK | score = 15.136
+Result: SUCCESS in 1 steps
+
+--- Run 33/50 (Seed 4057) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/summary_day1.txt', '\nSummary ready.') | OK | score = 15.136
+Result: SUCCESS in 1 steps
+
+--- Run 34/50 (Seed 4058) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/summary_day1.txt', '\nSummary ready.') | OK | score = 15.136
+Result: SUCCESS in 1 steps
+
+--- Run 35/50 (Seed 4059) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/summary_day1.txt', '\nSummary ready.') | OK | score = 15.136
+Result: SUCCESS in 1 steps
+
+--- Run 36/50 (Seed 4060) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/summary_day1.txt', '\nSummary ready.') | OK | score = 15.136
+Result: SUCCESS in 1 steps
+
+--- Run 37/50 (Seed 4061) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/summary_day1.txt', '\nSummary ready.') | OK | score = 15.136
+Result: SUCCESS in 1 steps
+
+--- Run 38/50 (Seed 4062) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/summary_day1.txt', '\nSummary ready.') | OK | score = 15.136
+Result: SUCCESS in 1 steps
+
+--- Run 39/50 (Seed 4063) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/summary_day1.txt', '\nSummary ready.') | OK | score = 15.136
+Result: SUCCESS in 1 steps
+
+--- Run 40/50 (Seed 4064) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/summary_day1.txt', '\nSummary ready.') | OK | score = 15.136
+Result: SUCCESS in 1 steps
+
+--- Run 41/50 (Seed 4065) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/summary_day1.txt', '\nSummary ready.') | OK | score = 15.136
+Result: SUCCESS in 1 steps
+
+--- Run 42/50 (Seed 4066) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/summary_day1.txt', '\nSummary ready.') | OK | score = 15.136
+Result: SUCCESS in 1 steps
+
+--- Run 43/50 (Seed 4067) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/summary_day1.txt', '\nSummary ready.') | OK | score = 15.136
+Result: SUCCESS in 1 steps
+
+--- Run 44/50 (Seed 4068) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/summary_day1.txt', '\nSummary ready.') | OK | score = 15.136
+Result: SUCCESS in 1 steps
+
+--- Run 45/50 (Seed 4069) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/summary_day1.txt', '\nSummary ready.') | OK | score = 15.136
+Result: SUCCESS in 1 steps
+
+--- Run 46/50 (Seed 4070) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/summary_day1.txt', '\nSummary ready.') | OK | score = 15.136
+Result: SUCCESS in 1 steps
+
+--- Run 47/50 (Seed 4071) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/summary_day1.txt', '\nSummary ready.') | OK | score = 15.136
+Result: SUCCESS in 1 steps
+
+--- Run 48/50 (Seed 4072) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/summary_day1.txt', '\nSummary ready.') | OK | score = 15.136
+Result: SUCCESS in 1 steps
+
+--- Run 49/50 (Seed 4073) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/summary_day1.txt', '\nSummary ready.') | OK | score = 15.136
+Result: SUCCESS in 1 steps
+
+--- Run 50/50 (Seed 4074) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/summary_day1.txt', '\nSummary ready.') | OK | score = 15.136
+Result: SUCCESS in 1 steps
+==============================
+EVALUATION COMPLETE (50 runs)
+Variant: A
+Success Rate: 100.0%
+Avg Steps (Successes): 1.00
+Std Dev: +/- 0.0%
+==============================
+
+------------------------------
+
+--- EVALUATION OUTPUT: Variant B, Task log ---
+Loading Models from models.pt...
+
+Running Task: Generate Log
+Variant: B
+Base Seed: 4025 | Runs: 50
+------------------------------
+
+--- Run 1/50 (Seed 4025) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 0.146
+Result: SUCCESS in 1 steps
+
+--- Run 2/50 (Seed 4026) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 0.146
+Result: SUCCESS in 1 steps
+
+--- Run 3/50 (Seed 4027) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 0.146
+Result: SUCCESS in 1 steps
+
+--- Run 4/50 (Seed 4028) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 0.146
+Result: SUCCESS in 1 steps
+
+--- Run 5/50 (Seed 4029) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 0.146
+Result: SUCCESS in 1 steps
+
+--- Run 6/50 (Seed 4030) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 0.146
+Result: SUCCESS in 1 steps
+
+--- Run 7/50 (Seed 4031) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 0.146
+Result: SUCCESS in 1 steps
+
+--- Run 8/50 (Seed 4032) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 0.146
+Result: SUCCESS in 1 steps
+
+--- Run 9/50 (Seed 4033) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 0.146
+Result: SUCCESS in 1 steps
+
+--- Run 10/50 (Seed 4034) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 0.146
+Result: SUCCESS in 1 steps
+
+--- Run 11/50 (Seed 4035) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 0.146
+Result: SUCCESS in 1 steps
+
+--- Run 12/50 (Seed 4036) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 0.146
+Result: SUCCESS in 1 steps
+
+--- Run 13/50 (Seed 4037) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 0.146
+Result: SUCCESS in 1 steps
+
+--- Run 14/50 (Seed 4038) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 0.146
+Result: SUCCESS in 1 steps
+
+--- Run 15/50 (Seed 4039) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 0.146
+Result: SUCCESS in 1 steps
+
+--- Run 16/50 (Seed 4040) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 0.146
+Result: SUCCESS in 1 steps
+
+--- Run 17/50 (Seed 4041) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 0.146
+Result: SUCCESS in 1 steps
+
+--- Run 18/50 (Seed 4042) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 0.146
+Result: SUCCESS in 1 steps
+
+--- Run 19/50 (Seed 4043) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 0.146
+Result: SUCCESS in 1 steps
+
+--- Run 20/50 (Seed 4044) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 0.146
+Result: SUCCESS in 1 steps
+
+--- Run 21/50 (Seed 4045) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 0.146
+Result: SUCCESS in 1 steps
+
+--- Run 22/50 (Seed 4046) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 0.146
+Result: SUCCESS in 1 steps
+
+--- Run 23/50 (Seed 4047) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 0.146
+Result: SUCCESS in 1 steps
+
+--- Run 24/50 (Seed 4048) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 0.146
+Result: SUCCESS in 1 steps
+
+--- Run 25/50 (Seed 4049) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 0.146
+Result: SUCCESS in 1 steps
+
+--- Run 26/50 (Seed 4050) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 0.146
+Result: SUCCESS in 1 steps
+
+--- Run 27/50 (Seed 4051) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 0.146
+Result: SUCCESS in 1 steps
+
+--- Run 28/50 (Seed 4052) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 0.146
+Result: SUCCESS in 1 steps
+
+--- Run 29/50 (Seed 4053) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 0.146
+Result: SUCCESS in 1 steps
+
+--- Run 30/50 (Seed 4054) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 0.146
+Result: SUCCESS in 1 steps
+
+--- Run 31/50 (Seed 4055) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 0.146
+Result: SUCCESS in 1 steps
+
+--- Run 32/50 (Seed 4056) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 0.146
+Result: SUCCESS in 1 steps
+
+--- Run 33/50 (Seed 4057) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 0.146
+Result: SUCCESS in 1 steps
+
+--- Run 34/50 (Seed 4058) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 0.146
+Result: SUCCESS in 1 steps
+
+--- Run 35/50 (Seed 4059) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 0.146
+Result: SUCCESS in 1 steps
+
+--- Run 36/50 (Seed 4060) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 0.146
+Result: SUCCESS in 1 steps
+
+--- Run 37/50 (Seed 4061) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 0.146
+Result: SUCCESS in 1 steps
+
+--- Run 38/50 (Seed 4062) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 0.146
+Result: SUCCESS in 1 steps
+
+--- Run 39/50 (Seed 4063) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 0.146
+Result: SUCCESS in 1 steps
+
+--- Run 40/50 (Seed 4064) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 0.146
+Result: SUCCESS in 1 steps
+
+--- Run 41/50 (Seed 4065) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 0.146
+Result: SUCCESS in 1 steps
+
+--- Run 42/50 (Seed 4066) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 0.146
+Result: SUCCESS in 1 steps
+
+--- Run 43/50 (Seed 4067) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 0.146
+Result: SUCCESS in 1 steps
+
+--- Run 44/50 (Seed 4068) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 0.146
+Result: SUCCESS in 1 steps
+
+--- Run 45/50 (Seed 4069) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 0.146
+Result: SUCCESS in 1 steps
+
+--- Run 46/50 (Seed 4070) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 0.146
+Result: SUCCESS in 1 steps
+
+--- Run 47/50 (Seed 4071) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 0.146
+Result: SUCCESS in 1 steps
+
+--- Run 48/50 (Seed 4072) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 0.146
+Result: SUCCESS in 1 steps
+
+--- Run 49/50 (Seed 4073) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 0.146
+Result: SUCCESS in 1 steps
+
+--- Run 50/50 (Seed 4074) ---
+Creature world created (clean slate).
+[0] ACTION = RUN    ('scripts/sum.py',)  | OK | score = 0.146
+Result: SUCCESS in 1 steps
+==============================
+EVALUATION COMPLETE (50 runs)
+Variant: B
+Success Rate: 100.0%
+Avg Steps (Successes): 1.00
+Std Dev: +/- 0.0%
+==============================
+
+------------------------------
+
+--- EVALUATION OUTPUT: Variant B, Task summary ---
+Loading Models from models.pt...
+
+Running Task: Write Summary
+Variant: B
+Base Seed: 4025 | Runs: 50
+------------------------------
+
+--- Run 1/50 (Seed 4025) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.136
+[1] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.764
+[2] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.884
+[3] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.772
+[4] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.867
+[5] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.864
+[6] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.870
+[7] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.450
+[8] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.891
+[9] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.827
+Result: FAIL in 10 steps
+
+--- Run 2/50 (Seed 4026) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.136
+[1] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.764
+[2] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.884
+[3] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.772
+[4] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.867
+[5] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.864
+[6] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.870
+[7] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.450
+[8] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.891
+[9] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.827
+Result: FAIL in 10 steps
+
+--- Run 3/50 (Seed 4027) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.136
+[1] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.764
+[2] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.884
+[3] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.772
+[4] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.867
+[5] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.864
+[6] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.870
+[7] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.450
+[8] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.891
+[9] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.827
+Result: FAIL in 10 steps
+
+--- Run 4/50 (Seed 4028) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.136
+[1] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.764
+[2] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.884
+[3] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.772
+[4] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.867
+[5] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.864
+[6] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.870
+[7] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.450
+[8] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.891
+[9] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.827
+Result: FAIL in 10 steps
+
+--- Run 5/50 (Seed 4029) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.136
+[1] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.764
+[2] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.884
+[3] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.772
+[4] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.867
+[5] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.864
+[6] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.870
+[7] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.450
+[8] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.891
+[9] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.827
+Result: FAIL in 10 steps
+
+--- Run 6/50 (Seed 4030) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.136
+[1] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.764
+[2] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.884
+[3] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.772
+[4] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.867
+[5] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.864
+[6] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.870
+[7] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.450
+[8] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.891
+[9] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.827
+Result: FAIL in 10 steps
+
+--- Run 7/50 (Seed 4031) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.136
+[1] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.764
+[2] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.884
+[3] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.772
+[4] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.867
+[5] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.864
+[6] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.870
+[7] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.450
+[8] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.891
+[9] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.827
+Result: FAIL in 10 steps
+
+--- Run 8/50 (Seed 4032) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.136
+[1] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.764
+[2] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.884
+[3] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.772
+[4] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.867
+[5] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.864
+[6] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.870
+[7] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.450
+[8] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.891
+[9] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.827
+Result: FAIL in 10 steps
+
+--- Run 9/50 (Seed 4033) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.136
+[1] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.764
+[2] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.884
+[3] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.772
+[4] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.867
+[5] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.864
+[6] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.870
+[7] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.450
+[8] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.891
+[9] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.827
+Result: FAIL in 10 steps
+
+--- Run 10/50 (Seed 4034) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.136
+[1] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.764
+[2] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.884
+[3] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.772
+[4] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.867
+[5] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.864
+[6] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.870
+[7] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.450
+[8] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.891
+[9] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.827
+Result: FAIL in 10 steps
+
+--- Run 11/50 (Seed 4035) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.136
+[1] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.764
+[2] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.884
+[3] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.772
+[4] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.867
+[5] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.864
+[6] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.870
+[7] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.450
+[8] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.891
+[9] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.827
+Result: FAIL in 10 steps
+
+--- Run 12/50 (Seed 4036) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.136
+[1] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.764
+[2] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.884
+[3] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.772
+[4] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.867
+[5] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.864
+[6] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.870
+[7] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.450
+[8] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.891
+[9] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.827
+Result: FAIL in 10 steps
+
+--- Run 13/50 (Seed 4037) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.136
+[1] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.764
+[2] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.884
+[3] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.772
+[4] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.867
+[5] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.864
+[6] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.870
+[7] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.450
+[8] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.891
+[9] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.827
+Result: FAIL in 10 steps
+
+--- Run 14/50 (Seed 4038) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.136
+[1] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.764
+[2] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.884
+[3] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.772
+[4] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.867
+[5] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.864
+[6] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.870
+[7] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.450
+[8] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.891
+[9] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.827
+Result: FAIL in 10 steps
+
+--- Run 15/50 (Seed 4039) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.136
+[1] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.764
+[2] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.884
+[3] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.772
+[4] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.867
+[5] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.864
+[6] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.870
+[7] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.450
+[8] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.891
+[9] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.827
+Result: FAIL in 10 steps
+
+--- Run 16/50 (Seed 4040) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.136
+[1] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.764
+[2] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.884
+[3] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.772
+[4] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.867
+[5] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.864
+[6] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.870
+[7] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.450
+[8] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.891
+[9] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.827
+Result: FAIL in 10 steps
+
+--- Run 17/50 (Seed 4041) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.136
+[1] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.764
+[2] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.884
+[3] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.772
+[4] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.867
+[5] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.864
+[6] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.870
+[7] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.450
+[8] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.891
+[9] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.827
+Result: FAIL in 10 steps
+
+--- Run 18/50 (Seed 4042) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.136
+[1] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.764
+[2] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.884
+[3] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.772
+[4] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.867
+[5] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.864
+[6] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.870
+[7] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.450
+[8] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.891
+[9] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.827
+Result: FAIL in 10 steps
+
+--- Run 19/50 (Seed 4043) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.136
+[1] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.764
+[2] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.884
+[3] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.772
+[4] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.867
+[5] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.864
+[6] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.870
+[7] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.450
+[8] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.891
+[9] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.827
+Result: FAIL in 10 steps
+
+--- Run 20/50 (Seed 4044) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.136
+[1] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.764
+[2] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.884
+[3] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.772
+[4] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.867
+[5] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.864
+[6] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.870
+[7] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.450
+[8] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.891
+[9] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.827
+Result: FAIL in 10 steps
+
+--- Run 21/50 (Seed 4045) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.136
+[1] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.764
+[2] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.884
+[3] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.772
+[4] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.867
+[5] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.864
+[6] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.870
+[7] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.450
+[8] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.891
+[9] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.827
+Result: FAIL in 10 steps
+
+--- Run 22/50 (Seed 4046) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.136
+[1] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.764
+[2] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.884
+[3] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.772
+[4] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.867
+[5] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.864
+[6] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.870
+[7] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.450
+[8] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.891
+[9] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.827
+Result: FAIL in 10 steps
+
+--- Run 23/50 (Seed 4047) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.136
+[1] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.764
+[2] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.884
+[3] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.772
+[4] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.867
+[5] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.864
+[6] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.870
+[7] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.450
+[8] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.891
+[9] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.827
+Result: FAIL in 10 steps
+
+--- Run 24/50 (Seed 4048) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.136
+[1] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.764
+[2] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.884
+[3] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.772
+[4] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.867
+[5] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.864
+[6] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.870
+[7] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.450
+[8] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.891
+[9] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.827
+Result: FAIL in 10 steps
+
+--- Run 25/50 (Seed 4049) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.136
+[1] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.764
+[2] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.884
+[3] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.772
+[4] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.867
+[5] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.864
+[6] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.870
+[7] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.450
+[8] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.891
+[9] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.827
+Result: FAIL in 10 steps
+
+--- Run 26/50 (Seed 4050) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.136
+[1] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.764
+[2] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.884
+[3] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.772
+[4] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.867
+[5] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.864
+[6] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.870
+[7] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.450
+[8] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.891
+[9] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.827
+Result: FAIL in 10 steps
+
+--- Run 27/50 (Seed 4051) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.136
+[1] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.764
+[2] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.884
+[3] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.772
+[4] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.867
+[5] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.864
+[6] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.870
+[7] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.450
+[8] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.891
+[9] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.827
+Result: FAIL in 10 steps
+
+--- Run 28/50 (Seed 4052) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.136
+[1] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.764
+[2] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.884
+[3] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.772
+[4] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.867
+[5] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.864
+[6] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.870
+[7] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.450
+[8] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.891
+[9] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.827
+Result: FAIL in 10 steps
+
+--- Run 29/50 (Seed 4053) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.136
+[1] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.764
+[2] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.884
+[3] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.772
+[4] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.867
+[5] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.864
+[6] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.870
+[7] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.450
+[8] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.891
+[9] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.827
+Result: FAIL in 10 steps
+
+--- Run 30/50 (Seed 4054) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.136
+[1] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.764
+[2] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.884
+[3] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.772
+[4] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.867
+[5] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.864
+[6] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.870
+[7] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.450
+[8] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.891
+[9] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.827
+Result: FAIL in 10 steps
+
+--- Run 31/50 (Seed 4055) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.136
+[1] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.764
+[2] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.884
+[3] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.772
+[4] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.867
+[5] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.864
+[6] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.870
+[7] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.450
+[8] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.891
+[9] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.827
+Result: FAIL in 10 steps
+
+--- Run 32/50 (Seed 4056) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.136
+[1] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.764
+[2] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.884
+[3] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.772
+[4] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.867
+[5] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.864
+[6] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.870
+[7] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.450
+[8] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.891
+[9] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.827
+Result: FAIL in 10 steps
+
+--- Run 33/50 (Seed 4057) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.136
+[1] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.764
+[2] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.884
+[3] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.772
+[4] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.867
+[5] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.864
+[6] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.870
+[7] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.450
+[8] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.891
+[9] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.827
+Result: FAIL in 10 steps
+
+--- Run 34/50 (Seed 4058) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.136
+[1] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.764
+[2] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.884
+[3] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.772
+[4] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.867
+[5] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.864
+[6] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.870
+[7] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.450
+[8] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.891
+[9] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.827
+Result: FAIL in 10 steps
+
+--- Run 35/50 (Seed 4059) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.136
+[1] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.764
+[2] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.884
+[3] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.772
+[4] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.867
+[5] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.864
+[6] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.870
+[7] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.450
+[8] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.891
+[9] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.827
+Result: FAIL in 10 steps
+
+--- Run 36/50 (Seed 4060) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.136
+[1] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.764
+[2] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.884
+[3] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.772
+[4] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.867
+[5] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.864
+[6] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.870
+[7] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.450
+[8] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.891
+[9] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.827
+Result: FAIL in 10 steps
+
+--- Run 37/50 (Seed 4061) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.136
+[1] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.764
+[2] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.884
+[3] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.772
+[4] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.867
+[5] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.864
+[6] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.870
+[7] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.450
+[8] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.891
+[9] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.827
+Result: FAIL in 10 steps
+
+--- Run 38/50 (Seed 4062) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.136
+[1] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.764
+[2] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.884
+[3] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.772
+[4] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.867
+[5] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.864
+[6] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.870
+[7] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.450
+[8] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.891
+[9] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.827
+Result: FAIL in 10 steps
+
+--- Run 39/50 (Seed 4063) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.136
+[1] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.764
+[2] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.884
+[3] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.772
+[4] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.867
+[5] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.864
+[6] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.870
+[7] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.450
+[8] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.891
+[9] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.827
+Result: FAIL in 10 steps
+
+--- Run 40/50 (Seed 4064) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.136
+[1] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.764
+[2] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.884
+[3] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.772
+[4] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.867
+[5] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.864
+[6] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.870
+[7] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.450
+[8] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.891
+[9] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.827
+Result: FAIL in 10 steps
+
+--- Run 41/50 (Seed 4065) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.136
+[1] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.764
+[2] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.884
+[3] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.772
+[4] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.867
+[5] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.864
+[6] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.870
+[7] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.450
+[8] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.891
+[9] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.827
+Result: FAIL in 10 steps
+
+--- Run 42/50 (Seed 4066) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.136
+[1] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.764
+[2] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.884
+[3] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.772
+[4] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.867
+[5] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.864
+[6] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.870
+[7] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.450
+[8] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.891
+[9] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.827
+Result: FAIL in 10 steps
+
+--- Run 43/50 (Seed 4067) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.136
+[1] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.764
+[2] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.884
+[3] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.772
+[4] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.867
+[5] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.864
+[6] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.870
+[7] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.450
+[8] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.891
+[9] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.827
+Result: FAIL in 10 steps
+
+--- Run 44/50 (Seed 4068) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.136
+[1] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.764
+[2] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.884
+[3] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.772
+[4] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.867
+[5] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.864
+[6] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.870
+[7] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.450
+[8] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.891
+[9] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.827
+Result: FAIL in 10 steps
+
+--- Run 45/50 (Seed 4069) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.136
+[1] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.764
+[2] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.884
+[3] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.772
+[4] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.867
+[5] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.864
+[6] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.870
+[7] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.450
+[8] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.891
+[9] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.827
+Result: FAIL in 10 steps
+
+--- Run 46/50 (Seed 4070) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.136
+[1] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.764
+[2] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.884
+[3] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.772
+[4] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.867
+[5] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.864
+[6] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.870
+[7] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.450
+[8] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.891
+[9] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.827
+Result: FAIL in 10 steps
+
+--- Run 47/50 (Seed 4071) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.136
+[1] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.764
+[2] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.884
+[3] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.772
+[4] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.867
+[5] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.864
+[6] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.870
+[7] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.450
+[8] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.891
+[9] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.827
+Result: FAIL in 10 steps
+
+--- Run 48/50 (Seed 4072) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.136
+[1] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.764
+[2] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.884
+[3] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.772
+[4] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.867
+[5] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.864
+[6] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.870
+[7] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.450
+[8] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.891
+[9] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.827
+Result: FAIL in 10 steps
+
+--- Run 49/50 (Seed 4073) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.136
+[1] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.764
+[2] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.884
+[3] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.772
+[4] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.867
+[5] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.864
+[6] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.870
+[7] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.450
+[8] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.891
+[9] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.827
+Result: FAIL in 10 steps
+
+--- Run 50/50 (Seed 4074) ---
+Creature world created (clean slate).
+[0] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.136
+[1] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.764
+[2] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.884
+[3] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.772
+[4] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.867
+[5] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.864
+[6] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.870
+[7] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.450
+[8] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.891
+[9] ACTION = WRITE  ('docs/todo.txt', '\n[LOG ENTRY]\n') | OK | score = 15.827
+Result: FAIL in 10 steps
+==============================
+EVALUATION COMPLETE (50 runs)
+Variant: B
+Success Rate: 0.0%
+Avg Steps (Successes): 0.00
+Std Dev: +/- 0.0%
+==============================
+
+------------------------------
+
