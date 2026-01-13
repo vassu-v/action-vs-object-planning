@@ -5,7 +5,8 @@ Code accompanying the paper:
 Shoryavardhaan Gupta (2026)
 
 [![Paper](https://img.shields.io/badge/paper-PDF-blue)](link_to_your_pdf_or_arXiv_later)
-[![Preprints.org](https://img.shields.io/badge/Preprints.org-Paper-red)](link_to_preprints)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18196408.svg)](https://doi.org/10.5281/zenodo.18196408)
+
 (Under Review)
 
 ## Overview
@@ -87,7 +88,7 @@ If you use this code or find this work useful, please cite:
 @article{gupta2026object,
   title={Object Commitment as a Diagnostic Pressure Point in Grounded Planning},
   author={Gupta, Shoryavardhaan},
-  journal={...},  <!-- Update when accepted -->
+  journal={...},  <!-- Update -->
   year={2026}
 }
 ```
