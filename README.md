@@ -4,7 +4,7 @@
 > **Author:** Shoryavardhaan Gupta  
 > **Date:** February 2026
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18196408.svg)](https://doi.org/10.5281/zenodo.18196408)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18196407.svg)](https://doi.org/10.5281/zenodo.18196407)
 
 ## Abstract
 
