@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+creature_world/
+.DS_Store
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+*.log
+.ipynb_checkpoints
