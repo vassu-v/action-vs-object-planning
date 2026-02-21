@@ -1,6 +1,6 @@
 # Online Adaptation Protocol
 
-> Extension of the [base experiment](../expv2pushpublish/). Refer to the base README for core concepts (Variant A/B, Archive Dichotomy, Statistical Gravity).
+> Extension of the [base experiment (main branch)](https://github.com/vassu-v/action-vs-object-planning/tree/main). Refer to the [main branch README](https://github.com/vassu-v/action-vs-object-planning/tree/main#readme) for core concepts (Variant A/B, Archive Dichotomy, Statistical Gravity).
 
 ---
 

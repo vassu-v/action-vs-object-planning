@@ -1,6 +1,6 @@
 # Experiment C: Post-Hoc Online Adaptation
 
-> **Extension of:** [expv2pushpublish](../expv2pushpublish/) — the base experiment  
+> **Extension of:** [Main Branch](https://github.com/vassu-v/action-vs-object-planning/tree/main) — the base experiment  
 > **Paper:** Object Commitment as a Diagnostic Pressure Point in Grounded Planning  
 > **Author:** Shoryavardhaan Gupta
 
@@ -8,9 +8,9 @@
 
 ## Purpose
 
-This directory extends the [base experiment](../expv2pushpublish/) with a post-hoc verification: **Can online learning rescue the Grounding Wall?**
+This branch extends the [base experiment (main branch)](https://github.com/vassu-v/action-vs-object-planning/tree/main) with a post-hoc verification: **Can online learning rescue the Grounding Wall?**
 
-The base experiment (`expv2pushpublish`) established that mean-pooled representations fail at categorical object grounding in dense environments (0% success), even while maintaining perfect planning in standard environments (100% success). This extension tests whether that finding holds when the agent is given every advantage — Selective Plasticity, Curiosity-Driven Exploration, and Hindsight Experience Replay.
+The base experiment ([main branch](https://github.com/vassu-v/action-vs-object-planning/tree/main)) established that mean-pooled representations fail at categorical object grounding in dense environments (0% success), even while maintaining perfect planning in standard environments (100% success). This extension tests whether that finding holds when the agent is given every advantage — Selective Plasticity, Curiosity-Driven Exploration, and Hindsight Experience Replay.
 
 **Result:** The finding holds. The Grounding Wall is architectural, not distributional.
 
@@ -42,7 +42,7 @@ All shared infrastructure (`Core/env.py`, `Core/task.py`, `Models/`, `run_train.
 
 ## Reproduction
 
-**Prerequisite:** The base experiment models must be trained first. See [expv2pushpublish/README.md](../expv2pushpublish/README.md) for training instructions.
+**Prerequisite:** The base experiment models must be trained first. See the [main branch README](https://github.com/vassu-v/action-vs-object-planning/tree/main#reproduction) for training instructions.
 
 ```bash
 # Verify Grounding Wall exists (from base experiment)
