@@ -140,15 +140,16 @@ def _build_argument_data(dataset):
                 dir_X.append(state)
                 dir_Y.append(dir_to_id[dir_path])
 
+    from .perception import OBJECT_DIM
     if not file_X:
-        file_X = np.zeros((0, 128))
+        file_X = np.zeros((0, OBJECT_DIM))
         file_Y = np.zeros((0,))
     else:
         file_X = np.stack(file_X)
         file_Y = np.array(file_Y)
 
     if not dir_X:
-        dir_X = np.zeros((0, 128))
+        dir_X = np.zeros((0, OBJECT_DIM))
         dir_Y = np.zeros((0,))
     else:
         dir_X = np.stack(dir_X)

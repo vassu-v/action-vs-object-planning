@@ -3,8 +3,9 @@ from pathlib import Path
 import numpy as np
 from .env import ROOT
 
+import os
 BASE_DIM = 64
-OBJECT_DIM = 128
+OBJECT_DIM = int(os.environ.get("OBJECT_DIM", 128))
 
 def hash_to_vec(text: str, dim=BASE_DIM):
     h = hashlib.sha256(text.encode()).digest()
