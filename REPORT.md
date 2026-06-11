@@ -1,5 +1,8 @@
 # Scaling Experiment Report
 
+## Overview
+This experiment validates the theoretical prediction that the maximum number of objects $N^*$ that can be grounded in a mean-pooled representation scales with the embedding dimension $d$.
+
 ## Results
 
 | d | N | Success Rate |
@@ -23,8 +26,6 @@
 | 256 | 50 | 40.0% |
 
 ## Summary
-This experiment investigated the relationship between embedding dimension $d$ and the maximum number of objects $N^*$ that can be grounded in a mean-pooled representation.
-
 ### Predicted vs Observed $N^*$
 | d | Predicted $N^*$ | Observed Collapse Point (approx) |
 |---|----------------|---------------------------------|
@@ -32,4 +33,4 @@ This experiment investigated the relationship between embedding dimension $d$ an
 | 128 | 22-23 | 25-30 |
 | 256 | 40-41 | 40-50 |
 
-The results confirm that $N^*$ shifts with $d$ exactly as the theorem predicts. As the embedding dimension $d$ increases, the model's capacity to ground individual objects within a mean-pooled representation increases proportionally, following the predicted logarithmic relationship.
+The empirical data demonstrates a clear rightward shift of the grounding collapse point as $d$ increases. For $d=64$, performance begins to degrade after $N=10$, while for $d=256$, the model maintains high success rates up to $N=40$. This aligns with the theoretical prediction derived from the Gaussian embedding approximation.
