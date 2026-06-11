@@ -1,0 +1,12 @@
+EXPERIMENT C BENCHMARK
+Settings: Runs=1, Env=standard
+----------------------------------------
+Task            | Variant A  | Variant B
+----------------------------------------
+log             | 100.0%     | 0.0%
+summary         | 100.0%     | 0.0%
+refactor        | 0.0%       | 0.0%
+deploy          | 0.0%       | 0.0%
+config          | 0.0%       | 0.0%
+test            | 0.0%       | 0.0%
+archive         | 0.0%       | 0.0%
